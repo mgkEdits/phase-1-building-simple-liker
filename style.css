@@ -11,6 +11,10 @@ body h1 {
   color: #FFF;
 }
 
+.hidden{
+  display: none;
+}
+
 body > header {
   margin-bottom: 5%;
 }
